@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/spaceX">
+      <excludeFolder url="file://$MODULE_DIR$/spaceX/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/spaceX/tmp" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="38178b5b-8520-49f4-ad3c-5dc816308b9f" />
+  </component>
+</module>
